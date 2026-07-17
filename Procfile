@@ -1,0 +1,1 @@
+worker: python st.py

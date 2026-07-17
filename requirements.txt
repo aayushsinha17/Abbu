@@ -1,0 +1,9 @@
+pyrogram
+tgcrypto
+requests
+aiohttp
+aiofiles
+psutil
+gTTS
+Pillow
+python-dotenv
